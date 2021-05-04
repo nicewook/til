@@ -71,7 +71,7 @@ func main() {
 	}
 	defer f.Close()
 
-	if _, err := f.Write([]byte(content)); err != nil {
+	if _, err := f.WriteString(content); err != nil {
 		log.Fatal(err)
 	}
 }
