@@ -20,7 +20,7 @@ const Header = `# Today I Learned
 func markdownFiles(files []string) []string {
 	var result []string
 	for _, filename := range files {
-		if strings.Contains(filename, "md") {
+		if strings.Contains(filename, "md") && !strings.Contains(filename, "README.md") {
 			result = append(result, filepath.Base(filename))
 		}
 	}
