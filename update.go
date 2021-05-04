@@ -65,6 +65,10 @@ func main() {
 		}
 	}
 
+	if err := os.Remove("README.md"); err != nil {
+		log.Fatal(err)
+	}
+
 	f, err := os.OpenFile("README.md", os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatal(err)
