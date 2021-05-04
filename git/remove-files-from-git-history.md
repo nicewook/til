@@ -21,4 +21,3 @@ $ git push origin --force --all
 ```
 
 [Reference: How to remove sensitive files from GitHub commit history?](https://itnext.io/how-to-remove-sensitive-files-from-github-commit-history-638a3f291f74)
-
