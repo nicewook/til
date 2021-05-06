@@ -6,9 +6,6 @@
 ## git
 
 - [remove-files-from-git-history.md](git/remove-files-from-git-history.md)
-## test
-
-- [test.md](test/test.md)
 ## trivial
 
 - [beanpole.md](trivial/beanpole.md)
