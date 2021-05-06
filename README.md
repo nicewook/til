@@ -11,4 +11,5 @@
 - [test.md](test/test.md)
 ## trivial
 
+- [beanpole.md](trivial/beanpole.md)
 - [경위(涇渭).md](trivial/경위(涇渭).md)
