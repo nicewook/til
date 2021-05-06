@@ -5,8 +5,8 @@
 
 ## git
 
-- [remove-files-from-git-history.md](git/remove-files-from-git-history.md)
+- [remove files from git history](git\remove-files-from-git-history.md)
 ## trivial
 
-- [beanpole.md](trivial/beanpole.md)
-- [경위(涇渭).md](trivial/경위(涇渭).md)
+- [beanpole](trivial\beanpole.md)
+- [경위(涇渭)](trivial\경위(涇渭).md)

@@ -61,7 +61,9 @@ func main() {
 
 		content += fmt.Sprintf("## %s\n\n", dirName)
 		for _, mdFile := range mdFiles {
-			content += fmt.Sprintf("- [%s](%s)\n", mdFile, filepath.Join(dirName, mdFile))
+			pageName := strings.ReplaceAll(mdFile, "-", " ")
+			pageName = strings.Split(pageName, ".")[0]
+			content += fmt.Sprintf("- [%s](%s)\n", pageName, filepath.Join(dirName, mdFile))
 		}
 	}
 
