@@ -6,6 +6,9 @@
 ## git
 
 - [remove files from git history](git/remove-files-from-git-history.md)
+## go-language
+
+- [benchmark on powershell](go-language/benchmark-on-powershell.md)
 ## trivial
 
 - [beanpole](trivial/beanpole.md)
