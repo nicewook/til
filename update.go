@@ -59,8 +59,8 @@ func main() {
 			continue
 		}
 		
-		dirName = strings.ReplaceAll(dirName, "-", " ")
-		content += fmt.Sprintf("## %s\n\n", dirName)
+		dirNametoHeading := strings.ReplaceAll(dirName, "-", " ")
+		content += fmt.Sprintf("## %s\n\n", dirNametoHeading)
 		for _, mdFile := range mdFiles {
 			pageName := strings.ReplaceAll(mdFile, "-", " ")
 			pageName = strings.Split(pageName, ".")[0]
