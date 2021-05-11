@@ -58,7 +58,8 @@ func main() {
 		if len(mdFiles) == 0 {
 			continue
 		}
-
+		
+		dirName = strings.ReplaceAll(dirName, "-", " ")
 		content += fmt.Sprintf("## %s\n\n", dirName)
 		for _, mdFile := range mdFiles {
 			pageName := strings.ReplaceAll(mdFile, "-", " ")
