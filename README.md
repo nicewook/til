@@ -7,6 +7,7 @@
 
 - [bread and butter](English/bread-and-butter.md)
 - [cut corner](English/cut-corner.md)
+- [get your ducks in a row](English/get-your-ducks-in-a-row.md)
 - [hold a veto](English/hold-a-veto.md)
 ## git
 
