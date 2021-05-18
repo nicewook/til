@@ -6,6 +6,7 @@
 ## English
 
 - [bread and butter](English/bread-and-butter.md)
+- [cut corner](English/cut-corner.md)
 - [hold a veto](English/hold-a-veto.md)
 ## git
 
