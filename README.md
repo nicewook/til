@@ -9,6 +9,7 @@
 - [cut corners](English/cut-corners.md)
 - [get your ducks in a row](English/get-your-ducks-in-a-row.md)
 - [hold a veto](English/hold-a-veto.md)
+- [rigorous](English/rigorous.md)
 ## git
 
 - [remove files from git history](git/remove-files-from-git-history.md)
