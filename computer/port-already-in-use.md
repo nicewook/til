@@ -11,7 +11,7 @@ ex) `$ netstat -anob | findstr :21`
 
 a means all
 
-b means process name
+b means process name <in administartor mode>
 
 n means ip and port name as number
 
