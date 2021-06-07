@@ -12,6 +12,9 @@
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
 - [rigorous](English/rigorous.md)
+## computer
+
+- [port already in use](computer/port-already-in-use.md)
 ## git
 
 - [remove files from git history](git/remove-files-from-git-history.md)
