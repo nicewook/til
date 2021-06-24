@@ -17,6 +17,7 @@
 - [port already in use](computer/port-already-in-use.md)
 ## git
 
+- [chore](git/chore.md)
 - [remove files from git history](git/remove-files-from-git-history.md)
 ## go language
 
