@@ -25,6 +25,6 @@
 - [benchmark on powershell](go-language/benchmark-on-powershell.md)
 ## trivial
 
-- [Los_Angeles_is_the_second_largest_city_in_the_USA](trivial/Los_Angeles_is_the_second_largest_city_in_the_USA.md)
+- [Los Angeles is the second largest city in the USA](trivial/Los-Angeles-is-the-second-largest-city-in-the-USA.md)
 - [beanpole](trivial/beanpole.md)
 - [경위(涇渭)](trivial/경위(涇渭).md)
