@@ -14,6 +14,7 @@
 - [rigorous](English/rigorous.md)
 ## computer
 
+- [android_app_backup_to_google_drive](computer/android_app_backup_to_google_drive.md)
 - [port already in use](computer/port-already-in-use.md)
 ## git
 
