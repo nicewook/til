@@ -25,4 +25,5 @@
 ## trivial
 
 - [beanpole](trivial/beanpole.md)
+- [losangeles](trivial/losangeles.md)
 - [경위(涇渭)](trivial/경위(涇渭).md)
