@@ -7,4 +7,4 @@
 
 `https://dirve.google.com/drive/u/0/backups`
 
-![backup](../img/googledrive-backup.png)
+![backup](../img/googledrive-backup.PNG)
