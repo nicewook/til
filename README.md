@@ -12,6 +12,7 @@
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
 - [rigorous](English/rigorous.md)
+- [us and usa](English/us-and-usa.md)
 ## computer
 
 - [android app backup to google drive](computer/android-app-backup-to-google-drive.md)
