@@ -16,6 +16,7 @@
 ## computer
 
 - [android app backup to google drive](computer/android-app-backup-to-google-drive.md)
+- [is server down](computer/is-server-down.md)
 - [port already in use](computer/port-already-in-use.md)
 ## git
 
