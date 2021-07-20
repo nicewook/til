@@ -30,4 +30,5 @@
 - [Los Angeles is the second largest city in the USA](trivial/Los-Angeles-is-the-second-largest-city-in-the-USA.md)
 - [beanpole](trivial/beanpole.md)
 - [경위(涇渭)](trivial/경위(涇渭).md)
+- [단말마](trivial/단말마.md)
 - [종형제](trivial/종형제.md)
