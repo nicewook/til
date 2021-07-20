@@ -7,6 +7,7 @@
 
 - [bread and butter](English/bread-and-butter.md)
 - [cut corners](English/cut-corners.md)
+- [fasting](English/fasting.md)
 - [get your ducks in a row](English/get-your-ducks-in-a-row.md)
 - [hold a veto](English/hold-a-veto.md)
 - [mitigate](English/mitigate.md)
