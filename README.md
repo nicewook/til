@@ -10,6 +10,7 @@
 - [fasting](English/fasting.md)
 - [get your ducks in a row](English/get-your-ducks-in-a-row.md)
 - [hold a veto](English/hold-a-veto.md)
+- [jazz hands](English/jazz-hands.md)
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
 - [rigorous](English/rigorous.md)
