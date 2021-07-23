@@ -14,12 +14,12 @@
 
 ## 참고로 `Project Hail Mary` 원문을 찾아봄
 
-```
-1. He raised his hands and kind of shakes them. Alien jazz hands.
 
-2. I point to my clock, still taped to the wall, and then to his. He does the jazz hands with two of the hands he's not using at the moment. I do jazz hands back.
+1. He raised his hands and kind of shakes them. Alien `jazz hands`.
 
-3. I repeat the process a few times. He does jazz hands. I point to the "squarelock"(well, what else should I call it?) and he does jazz hands again.
+2. I point to my clock, still taped to the wall, and then to his. He does the `jazz hands` with two of the hands he's not using at the moment. I do `jazz hands` back.
 
-4. He does jazz hands. I throw some jazz hands back. 
-```
+3. I repeat the process a few times. He does `jazz hands`. I point to the "squarelock"(well, what else should I call it?) and he does `jazz hands` again.
+
+4. He does `jazz hands`. I throw some `jazz hands` back. 
+
