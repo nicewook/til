@@ -34,4 +34,5 @@
 - [경위(涇渭)](trivial/경위(涇渭).md)
 - [과하마](trivial/과하마.md)
 - [단말마](trivial/단말마.md)
+- [저탄고지와_키토제닉](trivial/저탄고지와_키토제닉.md)
 - [종형제](trivial/종형제.md)
