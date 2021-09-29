@@ -14,6 +14,7 @@
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
 - [rigorous](English/rigorous.md)
+- [thumbs up your ass](English/thumbs-up-your-ass.md)
 - [us and usa](English/us-and-usa.md)
 ## computer
 
