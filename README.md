@@ -13,6 +13,7 @@
 - [jazz hands](English/jazz-hands.md)
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
+- [prerequisite](English/prerequisite.md)
 - [rigorous](English/rigorous.md)
 - [thumbs up your ass](English/thumbs-up-your-ass.md)
 - [us and usa](English/us-and-usa.md)
