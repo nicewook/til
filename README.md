@@ -20,6 +20,7 @@
 ## computer
 
 - [android app backup to google drive](computer/android-app-backup-to-google-drive.md)
+- [curl with silent flag](computer/curl-with-silent-flag.md)
 - [install the latest versoin of git on WSL2](computer/install-the-latest-versoin-of-git-on-WSL2.md)
 - [is server down](computer/is-server-down.md)
 - [port already in use](computer/port-already-in-use.md)
