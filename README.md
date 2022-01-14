@@ -15,6 +15,7 @@
 - [per se](English/per-se.md)
 - [prerequisite](English/prerequisite.md)
 - [proof of concept](English/proof-of-concept.md)
+- [proper noun and Common noun](English/proper-noun-and-Common-noun.md)
 - [rigorous](English/rigorous.md)
 - [thumbs up your ass](English/thumbs-up-your-ass.md)
 - [us and usa](English/us-and-usa.md)
