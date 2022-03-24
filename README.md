@@ -11,6 +11,7 @@
 - [get your ducks in a row](English/get-your-ducks-in-a-row.md)
 - [hold a veto](English/hold-a-veto.md)
 - [jazz hands](English/jazz-hands.md)
+- [meta](English/meta.md)
 - [mitigate](English/mitigate.md)
 - [per se](English/per-se.md)
 - [prerequisite](English/prerequisite.md)
