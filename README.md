@@ -28,6 +28,7 @@
 - [install the latest versoin of git on WSL2](computer/install-the-latest-versoin-of-git-on-WSL2.md)
 - [is server down](computer/is-server-down.md)
 - [port already in use](computer/port-already-in-use.md)
+- [rc means in bashrc](computer/rc-means-in-bashrc.md)
 - [wsl2 directory as network drive](computer/wsl2-directory-as-network-drive.md)
 ## git
 
