@@ -14,6 +14,7 @@
 - [jazz hands](English/jazz-hands.md)
 - [meta](English/meta.md)
 - [mitigate](English/mitigate.md)
+- [must cop](English/must-cop.md)
 - [per se](English/per-se.md)
 - [prerequisite](English/prerequisite.md)
 - [proof of concept](English/proof-of-concept.md)
