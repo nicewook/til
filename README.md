@@ -24,6 +24,7 @@
 - [us and usa](English/us-and-usa.md)
 ## computer
 
+- [AWS Route 53](computer/AWS-Route-53.md)
 - [android app backup to google drive](computer/android-app-backup-to-google-drive.md)
 - [curl with silent flag](computer/curl-with-silent-flag.md)
 - [install the latest versoin of git on WSL2](computer/install-the-latest-versoin-of-git-on-WSL2.md)
