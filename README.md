@@ -39,6 +39,10 @@
 ## go language
 
 - [benchmark on powershell](go-language/benchmark-on-powershell.md)
+## quotes
+
+- [Action is the enemy of thought](quotes/Action-is-the-enemy-of-thought.md)
+- [I have never known any distress that an hour’s reading did not relieve](quotes/I-have-never-known-any-distress-that-an-hour’s-reading-did-not-relieve.md)
 ## trivial
 
 - [Los Angeles is the second largest city in the USA](trivial/Los-Angeles-is-the-second-largest-city-in-the-USA.md)
