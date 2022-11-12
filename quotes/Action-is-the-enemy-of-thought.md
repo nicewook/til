@@ -1,9 +1,7 @@
 # Action is the enemy of thought
 
 
-"Action is the enemy of thought."
-
-- Joseph Conrad
+"Action is the enemy of thought." - Joseph Conrad
 
 너무 많은 생각을 하기보다 행동하자.
 
